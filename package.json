@@ -1,0 +1,21 @@
+{
+  "name": "angularjs-hero-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node out/server.js",
+    "test": "nodemon out/server.js"
+  },
+  "author": "Shahriar Shovon",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.16.5",
+    "@types/express": "^4.0.37",
+    "@types/node": "^8.0.24"
+  }
+}
